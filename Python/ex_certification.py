@@ -1,5 +1,5 @@
 """
-Solução primeiro exercicio da certificação python basico do hackerrank.
+Solução primeiro exercicio da certificação python basico hackerrank.
 """
 
 class Car:
